@@ -7,7 +7,7 @@ title: 向大坤的主页
 subtitle: 学习，迭代，再学习；
 description: 向大坤的技术博客
 author: Tails
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
