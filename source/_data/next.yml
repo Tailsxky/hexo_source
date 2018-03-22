@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /favicon.ico
+favicon: /uploads/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "tailsxky, 向大坤"
@@ -47,12 +47,12 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
+  # categories: /categories/
   about: /about/
   archives: /archives/
-  tags: /tags/
+  # tags: /tags/
   #sitemap: /sitemap.xml
-  commonweal: /404/
+  #commonweal: /404/
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -93,7 +93,7 @@ scheme: Muse
 social:
   #LinkLabel: Link
   GitHub: https://github.com/Tailsxky
-  E-Mail: tailsxky@gmail.com
+  E-Mail: mailto:tailsxky@gmail.com
 
 # Social Links Icons
 # Icon Mapping:
