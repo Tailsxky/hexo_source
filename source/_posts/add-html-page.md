@@ -3,6 +3,7 @@ layout: post
 title: 关于如何在Hexo上添加原生HTML页面
 date: 2018-03-22 15:24:30
 category: 关于Hexo
+tag: Hexo
 ---
 
 之前写了一个简单的HTML格式的简历页面托管在github上，现在用了这个域名来托管了自己新建的博客，就在想能不能把原生的CV页面也做成一个子页面；
