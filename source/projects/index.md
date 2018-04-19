@@ -13,6 +13,7 @@ date: 2018-04-18 16:39:05
 
 - Tribute Page (BootStrap): [链接 Link](../projects/index/tribute-page/);
 - Random Quote Machine (jQuey, Ajax): [链接 Link](../projects/index/random-quote-machine/);
+- Design a danmu app (javascript): [链接 Link](../projects/index/danmu/);
 
 
 ## 个人项目
